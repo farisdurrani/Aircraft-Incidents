@@ -6,7 +6,9 @@ A user toggles filter settings and a range slider to only display related data, 
 
 ## To run
 
-Load the ```index.html``` file on a host. If running on a local computer, follow the step below:
+Go to https://farisdurrani.github.io/Aircraft-Incidents/final_activity/index.html.
+
+**Alternatively**, Load the ```index.html``` file on a host. If running on a local computer, follow the step below:
 
 > Start an http server for this directory. From command line call ```python -m SimpleHTTPServer 8080``` (for Python 2) or ```python -m http.server 8080``` (for Python 3).
 
